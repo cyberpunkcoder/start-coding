@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: cyberpunkprogrammer (github.com/cyberpunkprogrammer) (cyberpunkprogrammer@gmail.com)
+# Author: cyberpunkcoder (github.com/cyberpunkcoder) (cyberpunkcoder@gmail.com)
 # Date: October 29, 2020
 # Bash script to bring up your IDE and randomly shuffle your music into a play queue
 
